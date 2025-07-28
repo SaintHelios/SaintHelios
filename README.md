@@ -35,7 +35,7 @@
 
 ###
 
-<img align="left" height="150" src="https://i.imgur.com/VjER2ui.gif"  />
+<img src="https://i.imgur.com/VjER2ui.gif" height="150" />
 
 ###
 
