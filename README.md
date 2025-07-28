@@ -22,6 +22,8 @@
   <img width="5" />
   <img src="https://img.shields.io/badge/NixOS-5277C3?logo=nixos&logoColor=white&style=for-the-badge" height="30" alt="nixos logo"  />
   <img width="5" />
+    <img src="[https://img.shields.io/badge/Pentesting-DC143C?style=for-the-badge&logo=kalilinux]" height="30" alt="kali logo"  />
+  <img width="5" />
   <img src="https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white&style=for-the-badge" height="30" alt="git logo"  />
   <img width="5" />
   <img src="https://img.shields.io/badge/Linux-FCC624?logo=linux&logoColor=black&style=for-the-badge" height="30" alt="linux logo"  />
