@@ -33,12 +33,6 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/unix/unix-original.svg" height="30" alt="unix logo"  />
 </div>
 
-###
-
-<img src="https://i.imgur.com/VjER2ui.gif" height="150" />
-
-###
-
 <div align="left">
   <img src="https://img.shields.io/static/v1?message=@helioscq&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="discord logo"  />
 </div>
