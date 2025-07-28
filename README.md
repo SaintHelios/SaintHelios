@@ -39,8 +39,6 @@
 
 <br clear="both">
 
-<img align="right" height="150" src="https://i.imgur.com/VjER2ui.gif"  />
-
 ###
 
 <div align="left">
