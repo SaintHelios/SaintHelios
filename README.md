@@ -2,9 +2,6 @@
 <h3 align="center">Some cybersecurity guy</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sainthelios&label=Profile%20views&color=0e75b6&style=flat" alt="sainthelios" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sainthelios" alt="sainthelios" /></a> </p>
-
 <p align="left">
 </p>
 
