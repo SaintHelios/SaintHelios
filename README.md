@@ -46,6 +46,4 @@
 
 ###
 
-<div align="left">
-  [![TryHackMe Badge](https://tryhackme-badges.s3.amazonaws.com/helioscq.png)](https://tryhackme.com/p/3565040)
-</div>
+
