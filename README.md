@@ -1,11 +1,20 @@
-I am a cybersecurity student concentrating on reverse engineering and low-level system exploitation. My current work and study areas include binary exploitation (stack, heap, and ROP techniques), reversing crackmes, basic malware analysis, and systems programming in C and assembly.
+Cybersecurity student specializing in reverse engineering and low-level system exploitation.  
 
-Technical skills
+---
 
-Programming: C, C++, Rust, x86/x64 assembly, Python
+## Areas of Focus  
+- Binary exploitation: stack, heap, and ROP techniques  
+- Reverse engineering of crackmes and introductory malware  
+- Systems programming in C and x86/x64 assembly  
 
-Tooling: Ghidra, IDA, radare2, pwntools, gdb with pwndbg
+---
 
-Projects & writing
+## Technical Skills  
+**Languages:** C, C++, Rust, x86/x64 Assembly, Python  
+**Tools:** Ghidra, IDA, radare2, pwntools, gdb/pwndbg  
 
-Maintainer of technical writeups and notes: [helioscq.xyz](https://helioscq.xyz)
+---
+
+## Projects & Writing  
+- [helioscq.xyz](https://helioscq.xyz) — technical writeups and notes  
+- Active repositories on GitHub (see pinned projects for highlights)  
