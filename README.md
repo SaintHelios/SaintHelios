@@ -16,5 +16,5 @@ Cybersecurity student specializing in reverse engineering and low-level system e
 ---
 
 ## Projects & Writing  
-- [helioscq.xyz](https://helioscq.xyz) — technical writeups and notes  
-- Active repositories on GitHub (see pinned projects for highlights)  
+- [helioscq.xyz](https://helioscq.xyz) ~ technical writeups and notes  
+- Active repositories pinned
