@@ -1,24 +1,11 @@
-# Hi, I'm Helios 👋
+I am a cybersecurity student concentrating on reverse engineering and low-level system exploitation. My current work and study areas include binary exploitation (stack, heap, and ROP techniques), reversing crackmes, basic malware analysis, and systems programming in C and assembly.
 
-🎓 Studying **cybersecurity**, currently focused on **reverse engineering** & **low-level system exploitation**  
+Technical skills
 
-📝 Writeups & notes: [helioscq.xyz](https://helioscq.xyz)  
+Programming: C, C++, Rust, x86/x64 assembly, Python
 
----
+Tooling: Ghidra, IDA, radare2, pwntools, gdb with pwndbg
 
-## 🛠️ Tech & Tools
-- Languages: C, C++, Rust, x86/x64 Assembly, Python
-- Tools: Ghidra, IDA, radare2, pwntools, gdb/pwndbg  
+Projects & writing
 
----
-
-## 📌 Current focus
-- Binary exploitation (stack, heap, ROP)  
-- Reversing crackmes & malware basics  
-- Systems programming with C & Assembly
-
----
-
-## 📫 Connect
-- Website: [helioscq.xyz](https://helioscq.xyz)  
-- GitHub projects: check pinned repos 👇
+Maintainer of technical writeups and notes: [helioscq.xyz](https://helioscq.xyz)
