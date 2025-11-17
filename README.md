@@ -1,20 +1,19 @@
-Cybersecurity student specializing in reverse engineering and low-level system exploitation.  
+# Hey, I'm Helios
 
----
+I'm a cybersecurity student focusing on red teaming and pentesting, with a growing curiosity for low-level systems and reverse engineering. I like digging into how things actually work and where they fail.
 
-## Areas of Focus  
-- Binary exploitation: stack, heap, and ROP techniques  
-- Reverse engineering of crackmes and introductory malware  
-- Systems programming in C and x86/x64 assembly  
+## What I work with
+- Languages: C, Python  
+- Platforms: Linux, NixOS  
+- Tools: Burp Suite, Ghidra, x64dbg, and the usual offensive security stack
 
----
+## What I’m exploring
+- Binary exploitation  
+- Malware analysis and reverse engineering fundamentals  
+- System internals and network behavior
 
-## Technical Skills  
-**Languages:** C, C++, Rust, x86/x64 Assembly, Python  
-**Tools:** Ghidra, IDA, radare2, pwntools, gdb/pwndbg  
+## Outside of tech
+Music and art help keep my head clear.
 
----
-
-## Projects & Writing  
-- [helioscq.xyz](https://helioscq.xyz) ~ technical writeups and notes  
-- Active repositories pinned
+## Contact
+If you want to talk security, low-level work, or interesting projects, feel free to reach out.
