@@ -1,6 +1,6 @@
 # Hey, I'm Helios
 
-I'm a cybersecurity student focusing on red teaming and pentesting, with a growing curiosity for low-level systems and reverse engineering. I like digging into how things actually work and where they fail.
+Information Security practicioner focusing on red teaming and pentesting
 
 ## What I work with
 - Languages: C, Python  
@@ -8,8 +8,8 @@ I'm a cybersecurity student focusing on red teaming and pentesting, with a growi
 - Tools: Burp Suite, Ghidra, x64dbg, and the usual offensive security stack
 
 ## What I’m exploring
-- Binary exploitation  
-- Malware analysis and reverse engineering fundamentals  
+- Zig & Go
+- DevOps / DevSecOps  
 - System internals and network behavior
 
 ## Outside of tech
