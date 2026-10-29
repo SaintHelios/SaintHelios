@@ -7,4 +7,4 @@
 
 
 
-![Alt text](meow_3.jpg)
+![Alt text](meow.gif)
